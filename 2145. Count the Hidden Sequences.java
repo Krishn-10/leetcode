@@ -1,3 +1,9 @@
+// 21/04/2025
+//Space Complexity = O(1)
+//Time Complexity = O(n)
+//Prefix Sum
+
+
 public class counthiddensequence {
     public static void main(String[] args) {
         int[] arr = {4,-7,2};
